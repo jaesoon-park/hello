@@ -4,8 +4,7 @@
 cmd
 
 cd c:\Temp
-j
-dir
+
 
 git clone 주소 
 
