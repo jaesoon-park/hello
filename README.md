@@ -8,10 +8,10 @@ cd c:\Temp
 
 git clone 주소 
 
-cd hello
+cd 불러오고자하는 파일명
 
-git add README.md
+git add 파일명 
 
-git commit -m "updata README.md"
+git commit -m "updata 파일명"
 
 git push -u origin master
